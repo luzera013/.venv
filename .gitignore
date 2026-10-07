@@ -1,0 +1,15 @@
+# Python virtual environment
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Editor / local config
+.vscode/
+
